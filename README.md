@@ -1,7 +1,6 @@
 - 👋 Hi, I'm JavaScript fullstack developer
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning PostgreSQL, advanced css, Nest
-- 💞️ I’m looking for first job
+- 💞️ I’m looking for job
 - 📫 How to reach me michal.pietraszek98@gmail.com
 
 <!---
